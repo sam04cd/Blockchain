@@ -1,3 +1,7 @@
+<p align="center">
+<img width="445" height="628" alt="Poster" src="https://github.com/user-attachments/assets/feb7f97b-628d-41fa-8b54-42bdaab01a3b" />
+</p>
+
 # Hệ thống quản lý thư viện bằng Blockchain
 
 Ứng dụng quản lý sách, người dùng và lịch sử mượn/trả trên nền tảng Ethereum. Mỗi giao dịch mượn hoặc trả sách được ghi nhận bằng smart contract Solidity để tăng tính minh bạch, an toàn và hạn chế chỉnh sửa dữ liệu sau khi phát sinh.
